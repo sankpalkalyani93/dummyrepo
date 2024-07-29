@@ -1,0 +1,38 @@
+SCRUM Notes For Online Book Store
+
+Project Initiation : 
+	To develop an application which will handle books management online. 
+	It will keep track of books, users, accounts etc.
+	Team : 1 desginer. 2 developers. 1 tester
+	Tools : IDE, Systems, Network
+	Platform : Java(Spring-Boot)/ Python(Django) + Database(Mysql/ Mongodb) 
+		   + HTML, CSS, JS + Bootstrap + Junit/ Pytest
+Sprint Planning : 
+	No. of days to complete the base build -> 1 month
+	To develop an application which will handle books management online. 
+	It will keep track of books, users, accounts etc.
+	What things we will build: 
+	1. Master Page Development -> Home, Aboutus, Contact, Register, Search
+		
+	2. Customer Management 
+		
+	3. Books Management
+		
+	4. Cart Management 
+		
+	5. Deals 
+		
+
+Sprint Execution
+	Design: 
+		UI + DFD + ER + Flow diagrams + System architecture + UML
+
+	Devleopment : 
+		Developing the project with java
+
+	Testing: 
+		Testing the project with junit, testNG
+
+Scrum Meeting
+Sprint Review
+Sprint Restrspection
