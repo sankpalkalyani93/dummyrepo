@@ -1,3 +1,6 @@
+git config --global user.name "sankpalkalyani93"
+git config --global user.email "sankpalkalyani93@gmail.com"
+
 SCRUM Notes For Online Book Store
 
 Project Initiation : 
